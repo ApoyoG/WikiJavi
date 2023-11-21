@@ -41,6 +41,7 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
+iJava
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
